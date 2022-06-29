@@ -1,0 +1,29 @@
+@charset "UTF-8"
+/* 
+     Tudo o que em HTML for id em CSS é #
+     Tudo o que em HTML for class em CSS é . (ponto)
+*/
+body {
+    background-color: rgb(127, 255, 212);
+}
+h1 {
+    color: black;
+}
+
+h1#principal {
+    color: rgb(57, 157, 250);
+    text-align: center;
+    background-color: aquamarine;
+}
+h2 {
+    color: brown;
+}
+.basico {
+
+}
+.intermediario{
+
+}
+.avancado{
+    
+}
